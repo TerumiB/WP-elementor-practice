@@ -26,7 +26,6 @@ The color ratio between the foreground and background should be higher than 4.5:
 
 
 
-
 ##### Add a Call to Action inside the Container
 1. Make sure the Container is selected (Click on the 6 dots inside the pink button)
 2. Search and select the Call to Action. Change the setting as follows
