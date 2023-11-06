@@ -1,8 +1,8 @@
 ## Practice 1
 
-In this tutorial, we will create a page header section using the pre-defined element "Call to Action". The Call to Action includes a header, text, and buttons. Feel free to choose any colors or text, but we want to make sure they are accessible to everyone. 
+In this tutorial, we will create a new page and add a header section using the pre-defined element "Call to Action". The Call to Action includes a header, text and buttons. Feel free to choose any colors or text, but we want to make sure they are accessible to everyone. 
 
-The color ratio between the foreground and background should be higher than 4.5:1. You can check the color contrast using tools like [WebAIM color checker"](https://webaim.org/resources/contrastchecker/), [WAVE accessibility extension](https://wave.webaim.org/extension/) or Lighthouse in Chrome DevTools. 
+Note on accessibility: the color ratio between the foreground and background should be higher than 4.5:1. You can check the color contrast using tools like [WebAIM color checker"](https://webaim.org/resources/contrastchecker/), [WAVE accessibility extension](https://wave.webaim.org/extension/) or Lighthouse in Chrome DevTools. 
 
 
 ### Creating a new page
@@ -14,6 +14,7 @@ The color ratio between the foreground and background should be higher than 4.5:
 5. Save the Page Address for future reference.
 
 ### Work with Elementor
+
 1. Click the Edit with the Elemntor button
 2. Add a Container and change the setting as follows
 
@@ -24,21 +25,25 @@ The color ratio between the foreground and background should be higher than 4.5:
 | Align Items| Center |
 | Background | Any color of your choice |
 
-<video src="1.mov" controls title="Work with Elementor"></video>
+Note: The first video uploaded on the Slack shows the above steps.  
 
-##### Add a Call to Action inside the Container
-1. Make sure the Container is selected (Click on the 6 dots inside the pink button)
+### Add a Call to Action inside the Container
+
+1. Make sure the Container is selected (Click on the 6 dots inside the pink button on the top.)
 2. Search and select the Call to Action. Change the setting as follows
 
   * Alignment - Center
   * Enter the title and content of your choice
   * Update the Primary Button Text
   * Enable the Second Button 
-  * Update the Second Button Text    
+  * Update the Second Button Text   
+
 3. Under the Style section, change the setting as follows
   * Container Max Width to 75%
   * Background to transparent (0%)
+  
 4. Primary and Second button settings
+
 Change Text, Background, and border colors for both Normal and Hover states. This makes it easier for people with low vision or motor disabilities to use the Tab key to navigate websites.
 
 In the example, I used 
@@ -62,6 +67,6 @@ Secondary Button
 
 5. Click Update. 
 6. Go to the Page Address you saved in the previous step.  
-7. Reward yourself with cookies and share your page on Slack. 
+7. Reward yourself with cookies and share your page on Slack 🍪🥛
 
-<video src="elementor.mov" controls title="Elementor Call to Action"></video>
+Note: The Second video shows the above steps.  
