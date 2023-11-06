@@ -24,7 +24,7 @@ The color ratio between the foreground and background should be higher than 4.5:
 | Align Items| Center |
 | Background | Any color of your choice |
 
-
+<video src="1.mov" controls title="Work with Elementor"></video>
 
 ##### Add a Call to Action inside the Container
 1. Make sure the Container is selected (Click on the 6 dots inside the pink button)
@@ -63,3 +63,5 @@ Secondary Button
 5. Click Update. 
 6. Go to the Page Address you saved in the previous step.  
 7. Reward yourself with cookies and share your page on Slack. 
+
+<video src="elementor.mov" controls title="Elementor Call to Action"></video>
